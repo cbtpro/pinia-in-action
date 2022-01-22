@@ -1,0 +1,19 @@
+{
+  "name": "pinia-in-action",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vue-tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.0.9",
+    "vue": "^3.2.27"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.1",
+    "typescript": "^4.4.4",
+    "vite": "^2.7.12",
+    "vue-tsc": "^0.29.8"
+  }
+}
